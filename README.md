@@ -22,8 +22,9 @@ This project is a Front-end and back-end separation one. All the front-end codes
 ##  Requirments
 In recent years, many new students have been forced to live off-campus due to the lack of accommodation on campus, but new students are new to university and are unfamiliar with many things. We have observed this problem and decided to create a student forum to help new students get acquainted with the campus.
 ### Use case diagram
-### Environment
+![image]
 ### Evolutionary Model
+![image]
 ### Functional Requirements
 *   Register page
     1. Verify whether the user have registered.
@@ -59,15 +60,33 @@ In recent years, many new students have been forced to live off-campus due to th
     1. Users can view their own posts or their comments and favorite posts on this page.
 *   Manage Page
     1. The administrator can manage user, news, and posts in this page.
+    2. 
+##  Design
+### Class diagram
+![image]
+### Sequence diagram
+![image]
+
 ##  Developments
 1.  Task allocations:
     *   Chen Boyu   __Scrum Master__
     *   Liu  Yubo   __Product Owner__
     *   Wang Yuzhe  __Testing__      
     *   Bai  Enduo  __Testing__      
-2.  
+2. __Leagoo Documents__ 
 
 ##  Tests for this project
-1.  Black-box
-2.  White-box
-3.  Automation test
+1.  Black-box testing
+2.  White-box testing
+3.  Automatic testing
+4.  Unit testing
+5.  Integration testing
+
+##  Others
+### Team
+
+### Gantt charts
+
+
+##  Conclusion
+__Got A+ in this Course__.
