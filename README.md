@@ -60,7 +60,7 @@ In recent years, many new students have been forced to live off-campus due to th
     1. Users can view their own posts or their comments and favorite posts on this page.
 *   Manage Page
     1. The administrator can manage user, news, and posts in this page.
-    2. 
+    
 ##  Design
 ### Class diagram
 ![image](https://github.com/Travis-Chen00/Student-Online-Forum/blob/main/Images/class%20diagram.jpg)
