@@ -22,9 +22,9 @@ This project is a Front-end and back-end separation one. All the front-end codes
 ##  Requirments
 In recent years, many new students have been forced to live off-campus due to the lack of accommodation on campus, but new students are new to university and are unfamiliar with many things. We have observed this problem and decided to create a student forum to help new students get acquainted with the campus.
 ### Use case diagram
-![image]
+![image](https://github.com/Travis-Chen00/Student-Online-Forum/blob/main/Images/User%20case.jpg)
 ### Evolutionary Model
-![image]
+![image](https://github.com/Travis-Chen00/Student-Online-Forum/blob/main/Images/Evolutionary%20model.png)
 ### Functional Requirements
 *   Register page
     1. Verify whether the user have registered.
@@ -63,9 +63,9 @@ In recent years, many new students have been forced to live off-campus due to th
     2. 
 ##  Design
 ### Class diagram
-![image]
+![image](https://github.com/Travis-Chen00/Student-Online-Forum/blob/main/Images/class%20diagram.jpg)
 ### Sequence diagram
-![image]
+![image](https://github.com/Travis-Chen00/Student-Online-Forum/blob/main/Images/sequence%20diagram.png)
 
 ##  Developments
 1.  Task allocations:
@@ -74,6 +74,8 @@ In recent years, many new students have been forced to live off-campus due to th
     *   Wang Yuzhe  __Testing__      
     *   Bai  Enduo  __Testing__      
 2. __Leagoo Documents__ 
+3. __Demo__
+![image](https://github.com/Travis-Chen00/Student-Online-Forum/blob/main/Images/index.jpg)
 
 ##  Tests for this project
 1.  Black-box testing
@@ -84,9 +86,9 @@ In recent years, many new students have been forced to live off-campus due to th
 
 ##  Others
 ### Team
-
+![image](https://github.com/Travis-Chen00/Student-Online-Forum/blob/main/Images/Team.jpg)
 ### Gantt charts
-
+![image](https://github.com/Travis-Chen00/Student-Online-Forum/blob/main/Images/Gantt%20charts.png)
 
 ##  Conclusion
 __Got A+ in this Course__.
