@@ -69,10 +69,10 @@ In recent years, many new students have been forced to live off-campus due to th
 
 ##  Development
 1.  Task allocations:
-    *   Chen Boyu   __Scrum Master__
     *   Liu  Yubo   __Product Owner__
-    *   Wang Yuzhe  __Testing__      
-    *   Bai  Enduo  __Testing__      
+    *   Chen Boyu   __Scrum Master__
+    *   Wang Yuzhe        
+    *   Bai  Enduo       
 2. __Leagoo Documents__ 
 3. __Demo__
 ![image](https://github.com/Travis-Chen00/Student-Online-Forum/blob/main/Images/index.jpg)
