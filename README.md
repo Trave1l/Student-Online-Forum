@@ -3,8 +3,8 @@
 The project of the course Software Engineering<br>
 ##  Operations of this code
 This project is a Front-end and back-end separation one. All the front-end codes are in the Folder "vue", and the back-end codes are in the Folder "springboot" <br>
-1.  Language: Java
-2.  Frame   : Springboot & Vue3
+1.  Language:   Java
+2.  Frame:      Springboot & Vue3
 ### Operations:
 1.  Download the .sql file and all the code
 2.  In the Folder `springboot\src\main\resources` modify the file `application.properties` <br>
