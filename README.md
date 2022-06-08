@@ -12,7 +12,9 @@ This project is a Front-end and back-end separation one. All the front-end codes
     server.port=9092
 
     spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-    spring.datasource.url=jdbc:mysql://localhost:3306/`community`?useUnicode=true&characterEncoding=utf8&autoReconnect=true&serverTimezone=GMT%2B8  //change community to your database name
+    spring.datasource.url=jdbc:mysql://localhost:3306/community?useUnicode=true&characterEncoding=utf8&autoReconnect=true&serverTimezone=GMT%2B8  
+    //change community to your database name
+    
     spring.datasource.username=root     //change to your username for database
     spring.datasource.password=123456   //change to your password for database
     ```
